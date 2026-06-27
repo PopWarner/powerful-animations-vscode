@@ -14,7 +14,7 @@ labels: enhancement
 
 ## What would the ideal solution look like?
 
-<!-- Describe what you have in mind. Rough ideas are fine — no need for a full spec. -->
+<!-- Describe what you have in mind. Rough ideas are fine, no need for a full spec. -->
 
 ## Additional context
 

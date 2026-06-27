@@ -22,7 +22,7 @@ No. Everything runs locally in VS Code. There are no external services, no API c
 
 The preview button only appears when VS Code recognizes the file as SVG. Try:
 
-1. Check the language mode shown in the bottom-right status bar — it should say **SVG**
+1. Check the language mode shown in the bottom-right status bar. It should say **SVG**
 2. If it shows **Plain Text** or something else, click it and search for SVG to set it manually
 3. Save the file with a `.svg` extension if it does not already have one
 
@@ -32,7 +32,7 @@ The extension sets SVG language mode automatically when you open `.svg` files. I
 
 - Make sure the SVG has a `viewBox` or explicit `width`/`height` attributes
 - Check the VS Code Developer Tools console (`Help → Toggle Developer Tools`) for any errors
-- Try the SVG in a browser — if it is blank there too, the SVG itself may have an issue
+- Try the SVG in a browser. If it is blank there too, the SVG itself may have an issue
 
 ### My With() formula preview is not substituting variable values
 
@@ -46,7 +46,7 @@ The extension reads defaults from the `With` block at the top of the formula. Ma
 
 ## Power Apps Commands
 
-### The Prepare SVG command adds `EncodeUrl(...)` — do I need that?
+### The Prepare SVG command adds `EncodeUrl(...)`. Do I need that?
 
 Yes. Power Apps Image controls require SVG content to be URL-encoded. Without `EncodeUrl`, special characters in the SVG (angle brackets, quotes, hashes, spaces) will break the formula.
 

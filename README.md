@@ -1,6 +1,6 @@
 # Powerful Animations
 
-**The SVG animation toolkit for VS Code — built for the Microsoft 365 and Power Platform community.**
+**The SVG animation toolkit for VS Code, built for the Microsoft 365 and Power Platform community.**
 
 [Install on VS Code Marketplace][marketplace] · [Report a Bug][new-bug] · [Request a Feature][new-feature]
 
@@ -18,12 +18,12 @@ Found a bug? Have a feature idea? Open an issue. All feedback is welcome.
 
 ## What is Powerful Animations?
 
-Powerful Animations is a VS Code extension for working with SVG — especially if you build for Power Apps or anywhere else SVG is used across Microsoft 365.
+Powerful Animations is a VS Code extension for working with SVG, especially if you build for Power Apps or anywhere else SVG is used across Microsoft 365.
 
 - **Preview SVGs live** as you edit, with playback controls for animated SVGs
-- **Prepare SVGs for Power Apps** — convert SVG markup into Image control formulas in one click
-- **Build dynamic SVGs** — select a hardcoded value, name a Power Fx variable, and the extension wires it up
-- **Generate `With()` formulas** — self-contained formulas with defaults baked in, ready to paste
+- **Prepare SVGs for Power Apps:** convert SVG markup into Image control formulas in one click
+- **Build dynamic SVGs:** select a hardcoded value, name a Power Fx variable, and the extension wires it up
+- **Generate `With()` formulas:** self-contained formulas with defaults baked in, ready to paste
 
 ![End-to-end workflow: dynamic SVG variable creation](images/powerful-animations-dynamic-svg-variable.gif)
 
@@ -59,7 +59,7 @@ Please include your VS Code version, OS, and a clear description of what you exp
 
 ## Requesting a Feature
 
-Open an issue using the [Feature Request][new-feature] template. Describe what you are trying to do and why — context helps a lot more than just a feature name.
+Open an issue using the [Feature Request][new-feature] template. Describe what you are trying to do and why. Context helps a lot more than just a feature name.
 
 ---
 
